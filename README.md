@@ -6,23 +6,16 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Honk&size=35&pause=1000&color=A52A2A&center=true&vCenter=true&random=false&width=700&height=70&lines=Hi+There!;I'm+Rian!" alt="Typing SVG" />
 </div>
-
-<div align="center">
-  <h2>About Me</h2>
-  <p>
-  🎓 Information Systems student, dedicated to exploring the endless possibilities in the world of technology. Currently, my academic and professional journey is focused on back-end development with Java.
-  </p>
-  <p>
-  💻 In my repository, you'll find projects and code reflecting my dedication to the programming universe. I believe that robustness and efficiency are at the core of any application, and that's what I strive to achieve with every line of code I write.
-  </p>
-  <p>
-  🤖 Beyond the back-end, I have a personal interest in Artificial Intelligence, exploring how AI can be applied to the realm of art.
-  </p>
-</div>
-
 <br/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<div align="center">
+  <h1>🎓 About Me 🎓</h1>
+  <h3 align="center">
+   Computer Science student passionate about harnessing the potential of technology to drive innovation. My academic and professional pursuits are centered on mastering back-end development, with a focus on creating efficient and scalable solutions.
+  </h3>
+</div>
+
+<h1 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h1>
 
 <br/>
 <div align="center">
@@ -32,12 +25,8 @@
 
 <br></br>
 
-<h2 align="center">📈 Stats 📈</h2>
-
-<br/>
+<h1 align="center">📈 Stats 📈</h1>
 
 <div align="center">
-  <img width="295" src="https://github-readme-stats.vercel.app/api/top-langs/?username=01Rian&layout=compact&count_private=true&hide=HTML,CSS&theme=radical" alt="01rian" />
-  <br></br>
   <img src="https://streak-stats.demolab.com?user=01Rian&theme=radical&count_private=true&border_radius=5" alt="01rian" />
 </div>
